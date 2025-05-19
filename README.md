@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/mattyhakin/insulin-dosing-suite/blob/main/insulin-dosing-header.png?raw=true" alt="Inuslin Dosing Suite"/>
+
 # 🧪 Insulin Dosing Suite
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
