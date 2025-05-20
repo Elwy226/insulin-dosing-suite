@@ -4,11 +4,11 @@
 # 🧪 Insulin Dosing Suite
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Interface](https://img.shields.io/badge/Interface-CLI%20%7C%20GUI-green.svg)
-![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-green.svg)
+![CLI](https://img.shields.io/badge/Interface-CLI%20%7C%20GUI-yellowgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 ![Version](https://img.shields.io/github/v/tag/mattyhakin/insulin-dosing-suite?label=version)
 ![Release](https://img.shields.io/github/release/mattyhakin/insulin-dosing-suite.svg)
-![Tests](https://github.com/mattyhakin/insulin-dosing-suite/actions/workflows/python-ci.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/mattyhakin/insulin-dosing-suite)
 ![Repo Size](https://img.shields.io/github/repo-size/mattyhakin/insulin-dosing-suite)
 
@@ -35,7 +35,6 @@ This project merges and evolves four earlier tools into a single, modular dosing
 | `gui-v1/`      | First-generation GUI implementation                  |
 | `gui-v2/`      | Updated GUI with cleaner layout & usability          |
 | `experimental/`| Time-based input models for future exploration       |
-| `tests/`       | Unit tests for CLI, GUI, and experimental modules    |
 
 ---
 
@@ -55,20 +54,6 @@ python gui-v2/app.py
 
 ---
 
-## 🧪 Running Tests
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-Then run all tests:
-```bash
-pytest
-```
-
----
-
 ## 📦 Releases
 
 See [RELEASE_NOTES.md](./RELEASE_NOTES.md) for a breakdown of feature evolution.
@@ -83,10 +68,4 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 ## 📝 Notes
 
-This repository replaces the following earlier projects:
-- [`complexinsulincalc`](https://github.com/mattyhakin/complexinsulincalc)
-- [`ratioinputinsulin`](https://github.com/mattyhakin/ratioinputinsulin)
-- [`complexinsulincalcGUI`](https://github.com/mattyhakin/complexinsulincalcGUI)
-- [`InsulinCalcv3`](https://github.com/mattyhakin/InsulinCalcv3)
-
-They are now archived.
+This project is a combination of four previous projects I created: complexinsulincalc (v1.0), ratioinputinsulin (v2.0), complexinsulincalcGUI (v3.0) and InsulinCalcv3 (v4.0), which is the current live version. I have since removed them from my GitHub account after the creation of this unified repository.
